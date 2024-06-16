@@ -1,0 +1,6 @@
+7,Lena,Wagner,Patientenzimmer 405,2023-04-16
+9558,Max,Mustermann,Patientenzimmer 505,2018-10-14
+9558,Max,Mustermann,Patientenzimmer 505,2018-10-16
+1,David,Schmidt,Patientenzimmer 302,2023-06-14
+9,Nico,Bauer,Patientenzimmer 403,2024-01-15
+
